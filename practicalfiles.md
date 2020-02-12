@@ -22,9 +22,9 @@
       
       
       
-    Submitted to :                                                                                          Submitted By :
-    Ranjodh Kaur                                                                                             Rajat Kumar            
-                                                                                                             [ 1905253 ]                    
+    Submitted to :                                                                               Submitted By :
+     Ranjodh Kaur                                                                                  Rajat Kumar            
+                                                                                                  [ 1905253 ]                    
                                                  
                                                  
                                     Guru Nanak Dev Engineering College , Ludhiana
