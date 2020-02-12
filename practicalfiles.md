@@ -1,4 +1,5 @@
-                                      Programming For Problem Solving
+                                             Practical File
+                                     Programming For Problem Solving
                                                [ ESC - 105 ]
                                                
                                                
@@ -22,7 +23,7 @@
       
       
       
-    Submitted to :                                                                               Submitted By :
+     Submitted to :                                                                               Submitted By :
      Ranjodh Kaur                                                                                  Rajat Kumar            
                                                                                                   [ 1905253 ]                    
                                                  
